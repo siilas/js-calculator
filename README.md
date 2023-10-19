@@ -1,5 +1,3 @@
 # js-calculator
 
-Como realizar download do projeto
-
-`git clone git@github.com:DaniloOliveira28/js-calculator.git`
+Tarefa para pós-graduação em desenvolvimento de software para web na UFSCar.
